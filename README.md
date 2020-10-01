@@ -1,6 +1,8 @@
 View Windows 7 Startup Program List with Startup Discoverer
 
 
+
+
 Windows 7 has several ways to start applications & programs automatically commonly referred as startup locations.
 
 A tight control over startup programs can save you from viruses & malicious programs. Manually keeping check of windows 7 startup locations could be cumbersome task and many dont know all Windows 7 startup locations.
