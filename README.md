@@ -1,5 +1,5 @@
 View Windows 7 Startup Program List with Startup Discoverer
-.............................................................
+
 
 Windows 7 has several ways to start applications & programs automatically commonly referred as startup locations.
 
@@ -12,7 +12,7 @@ The main interface has 19 categories that you can click on to get the auto start
 Click on Show All Runs to view full list of Startup programs.
 
 It is also possible to save a list as a text file and to print the a list to the default printer.
-.............................................................................................
+
 
 
 
